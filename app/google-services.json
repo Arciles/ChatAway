@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "952649376697",
+    "firebase_url": "https://chatapp-727bd.firebaseio.com",
+    "project_id": "chatapp-727bd",
+    "storage_bucket": "chatapp-727bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952649376697:android:dbbf60a40aa93685",
+        "android_client_info": {
+          "package_name": "com.etibis.chataway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952649376697-7jtkmc9pv64abpnj2c35h6s1js7023sq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.etibis.chataway",
+            "certificate_hash": "A1686066271A92FA42B7C903BA96454AACF09B69"
+          }
+        },
+        {
+          "client_id": "952649376697-sg6jommpklhman0qqc0q45841nr8b0o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy-ja8nDNTjj6bfXNno2kmEj-vGKi4edM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952649376697-sg6jommpklhman0qqc0q45841nr8b0o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
