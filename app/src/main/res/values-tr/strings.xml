@@ -2,4 +2,6 @@
 <resources>
     <string name="app_name">ChatAway</string>
     <string name="hello_world">Merhaba Dunya!!</string>
+    <string name="title_activity_login">Giris yap</string>
+    <string name="login">Giris yap</string>
 </resources>
